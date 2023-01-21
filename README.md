@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yota310&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yota310&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yota310&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yota310&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yota310&theme=moonlight&utcOffset=8)
 <h1 align="center">Hi 👋, I'm Yota310</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yota310&label=Profile%20views&color=0e75b6&style=flat" alt="yota310" /> </p>
 
@@ -12,7 +7,6 @@
 
 - 🌱 I’m currently learning **Laravel, React, c++, etc.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -24,6 +18,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yota310&show_icons=true&locale=en" alt="yota310" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yota310&" alt="yota310" /></p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yota310&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yota310&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yota310&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yota310&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yota310&theme=moonlight&utcOffset=8)
+
+
 
 <!--
 **Yota310/Yota310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

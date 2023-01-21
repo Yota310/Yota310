@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Yota310</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yota310&label=Profile%20views&color=0e75b6&style=flat" alt="yota310" /> </p>
